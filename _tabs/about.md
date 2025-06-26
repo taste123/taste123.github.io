@@ -5,7 +5,7 @@ order: 4
 ---
 # Hi there, I'm Ray 👋
 # 💫 About Me:
-- 📚 I’m currently studying on [Hasanuddin University](https://www.unhas.ac.id)
+- 📚 I’m currently studying at [Hasanuddin University](https://www.unhas.ac.id)
 - 🌱 I’m currently learning **React.js**
 - 👨‍💻 All of my projects are available at [https://github.com/taste123](https://github.com/taste123)
 - 💬 Ask me about **android app development**
