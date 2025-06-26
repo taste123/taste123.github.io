@@ -1,3 +1,8 @@
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
 # Hi there, I'm Ray 👋
 # 💫 About Me:
 - 📚 I’m currently studying on [Hasanuddin University](https://www.unhas.ac.id)
@@ -38,3 +43,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=taste123&icon=0&color=0)](https://visitcount.itsvg.in)
+
+> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
+{: .prompt-tip }
