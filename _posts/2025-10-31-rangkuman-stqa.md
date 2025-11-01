@@ -11,13 +11,13 @@ Ini adalah kumpulan lengkap rangkuman materi untuk mata kuliah Software Testing 
 
 ### Daftar Rangkuman Materi
 
-•⁠  ⁠[*Rangkuman Materi STQA: Software Testing (Kelompok 1)*](/posts/2025-10-31-bab1/)
-•⁠  ⁠[*Rangkuman Materi STQA: UI/UX Testing (Kelompok 2)*](/posts/2025-10-31-bab2/)
-•⁠  ⁠[*Rangkuman Materi STQA: Test Plan (Rencana Pengujian)*](/posts/2025-10-31-bab3/)
-•⁠  ⁠[*Rangkuman Materi STQA: Test Scenario, Test Case, & Bug Report*](/posts/2025-10-31-bab4/)
-•⁠  ⁠[*Rangkuman Materi STQA: Pengantar Unit Testing*](/posts/2025-10-31-bab5/)
-•⁠  ⁠[*Rangkuman Materi STQA: API Testing*](/posts/2025-10-31-bab6/)
-•⁠  ⁠[*Rangkuman Materi STQA: Pengantar Selenium WebDriver*](/posts/2025-10-31-bab7/) 
-•⁠  ⁠[*Rangkuman Materi STQA: Pengantar Cypress*](/posts/2025-10-31-bab8/) 
+* [*BAB 1: Software Testing (Kelompok 1)*](/posts/2025-10-31-bab1/)
+* [*BAB 2: UI/UX Testing (Kelompok 2)*](/posts/2025-10-31-bab2/)
+* [*BAB 3: Test Plan (Rencana Pengujian)*](/posts/2025-10-31-bab3/)
+* [*BAB 4: Test Scenario, Test Case, & Bug Report*](/posts/2025-10-31-bab4/)
+* [*BAB 5: Pengantar Unit Testing*](/posts/2025-10-31-bab5/)
+* [*BAB 6: API Testing*](/posts/2025-10-31-bab6/)
+* [*BAB 7: Pengantar Selenium WebDriver*](/posts/2025-10-31-bab7/) 
+* [*BAB 8: Pengantar Cypress*](/posts/2025-10-31-bab8/)
 
 ---
